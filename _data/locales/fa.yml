@@ -1,0 +1,30 @@
+fa:
+  locale_name: فارسی
+  nav:
+    about: درباره
+    contribute: مشارکت
+  index:
+    lead: .نرم‌افزارهای باز‌متن توسط افرادی نظیر شما تولید شده‌اند.بیاموزید چگونه پروژه خود را شروع کرده و آن را گسترش بدهید 
+    opensourcefriday: امروز جمعه است.چند ساعتی روی مشارکت در نرم‌افزاری که دوست‌دارید و از آن استفاده می‌کنیدوقت بگذارید.   article:
+    table_of_contents: جدول موضوعات
+    back_to_all_guides: برگشت به راهنماها
+    related_guides: راهنماهای مربوط
+  footer:
+    contribute:
+      heading: مشارکت
+      description: .پیشنهادی دارید؟این صفحه(محتوی) متن‌باز است.به ما کمک کنید تا آن‌را بهبود بدهیم.
+      button: مشارکت(Contribute)
+    subscribe:
+      heading: در تماس باشید
+      description: .اولین شخصی باشید که در باره آخرین نکات و منابع متن باز گیت‌هاب خبر می‌شوید.
+      label: آدرس ایمیل
+      button: عضویت
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] با [love] همراه [github] و [friends]"
+      # Label for code octicon
+      code_label: کد
+      # Label for love octicon
+      love_label: عشق
+      # Label for the contributors link
+      friends_label: دوستان
